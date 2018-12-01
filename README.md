@@ -2,7 +2,15 @@
 
 ### 使用方法
 
-运行
+打开终端
+
+```
+git clone https://github.com/lsj576642525/Node.js-Server.git
+```
+
+```
+cd Node.js-Server
+```
 
 ```
 node server.js 8888
